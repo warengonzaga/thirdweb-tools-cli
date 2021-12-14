@@ -1,0 +1,20 @@
+{
+  "name": "thirdweb-cli",
+  "version": "1.0.0-alpha.1",
+  "description": "[![created by](https://img.shields.io/badge/created%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![release](https://img.shields.io/github/release/warengonzaga/thirdweb-cli.svg?style=flat-square)](https://github.com/warengonzaga/thirdweb-cli/releases) [![star](https://img.shields.io/github/stars/warengonzaga/thirdweb-cli.svg?style=flat-square)](https://github.com/warengonzaga/thirdweb-cli/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/thirdweb-cli.svg?style=flat-square)](https://github.com/warengonzaga/thirdweb-cli/blob/main/license)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WarenGonzaga/thirdweb-cli.git"
+  },
+  "author": "Waren Gonzaga",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/WarenGonzaga/thirdweb-cli/issues"
+  },
+  "homepage": "https://github.com/WarenGonzaga/thirdweb-cli#readme",
+  "packageManager": "yarn@3.1.1"
+}
