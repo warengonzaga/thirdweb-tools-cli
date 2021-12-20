@@ -1,4 +1,4 @@
-# thirdweb CLI [![huntr](https://cdn.huntr.dev/huntr_security_badge_mono.svg)](https://huntr.dev)
+# thirdweb CLI [![huntr](https://cdn.huntr.dev/huntr_security_badge_mono.svg)](https://huntr.dev) ![status](https://img.shields.io/badge/status-work%20in%20progress%20-yellow.svg?longCache=true)
 
 [![created by](https://img.shields.io/badge/created%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![release](https://img.shields.io/github/release/warengonzaga/thirdweb-cli.svg?style=flat-square)](https://github.com/warengonzaga/thirdweb-cli/releases) [![star](https://img.shields.io/github/stars/warengonzaga/thirdweb-cli.svg?style=flat-square)](https://github.com/warengonzaga/thirdweb-cli/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/thirdweb-cli.svg?style=flat-square)](https://github.com/warengonzaga/thirdweb-cli/blob/main/license)
 
