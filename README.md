@@ -6,7 +6,7 @@
 
 ---
 
-The unofficial command line tool for thirdweb for your Web3 apps. 🚀
+A community-contributed NodeJS command line tool for [thirdweb](https://thirdweb.com) to create, develop and manage your Web3 projects without leaving your terminal. 🚀🌏🦄
 
 ## 😎 Demo
 
@@ -38,7 +38,7 @@ For any questions, suggestions, ideas, or simply you want to share your experien
 
 ## 🐛 Issues
 
-If you're facing a problem in using thirdweb CLI please let me know by [creating an issue here](https://github.com/warengonzaga/thirdweb-cli/issues/new). I'm here to help you!
+Please report any issues and bugs by [creating a new issue here](https://github.com/warengonzaga/thirdweb-cli/issues/new), also make sure you're reporting an issue that doesn't exist. Any help to improve the project would be appreciated. Thanks! 🙏✨
 
 ## 🍀 Sponsors and Supporters
 
